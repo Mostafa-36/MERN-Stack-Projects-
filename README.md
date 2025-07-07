@@ -34,11 +34,17 @@ This repository contains a collection of my full-stack projects built using the 
 
 ## 📂 Projects
 
-🛒 **Ministore** – Product Management System  [View Code](https://github.com/Mostafa-36/ministore)
-Ministore is a responsive full-stack product management app built with the MERN stack. 
-It features product creation, editing, and deletion, along with form validation, dark/light mode, and a clean modular codebase.
-🔗 **Live Demo:** [Click here to view the live project](https://your-deployment-link.com)
+### 🛒 Ministore – Product Management System  
+[🔗 View Code](https://github.com/your-username/ministore)  
+[🚀 Live Demo](https://ministore-demo.vercel.app)
 
+Ministore is a responsive full-stack product management app built with the MERN stack.  
+It features:
+
+- ✅ Product creation, editing, and deletion  
+- 🎨 Form validation with visual feedback  
+- 🌗 Dark/Light mode support  
+- 📦 Clean modular codebase and file structure  
 ---
 
 ## 📌 Why This Repository?
