@@ -35,7 +35,7 @@ This repository contains a collection of my full-stack projects built using the 
 ## 📂 Projects
 
 ### 🛒 Ministore – Product Management System  
-[🔗 View Code](https://github.com/your-username/ministore)  
+[🔗 View Code]([https://github.com/your-username/ministore](https://github.com/Mostafa-36/ministore)  
 [🚀 Live Demo](https://ministore-demo.vercel.app)
 
 Ministore is a responsive full-stack product management app built with the MERN stack.  
