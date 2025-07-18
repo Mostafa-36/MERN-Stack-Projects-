@@ -13,6 +13,7 @@ This repository contains a collection of my full-stack projects built using the 
 - React Router Dom
 - Redux Toolkit / Context API
 - Zustand
+- context API
 - Tailwind CSS
 - Charka UI
 - Framer Motion
@@ -24,6 +25,7 @@ This repository contains a collection of my full-stack projects built using the 
 - RESTful APIs
 - JWT Authentication
 - Middleware Pattern
+- Socket.io
 
 ### 🗄️ Database
 - MongoDB
@@ -41,12 +43,12 @@ This repository contains a collection of my full-stack projects built using the 
 Chatly is a responsive full-stack real-time chat app built with the MERN stack and Socket.IO.  
 It features:
 
-✅ Instant messaging with WebSockets  
-🔢 Unread message badges for inactive users (like WhatsApp)  
-🧠 Compound component pattern using useReducer + Context API  
-🔐 JWT authentication with secure session handling  
-🎨 Theme customization with 30+ UI styles  
-📦 Clean, modular architecture with centralized error handling  
+- ✅ Instant messaging with WebSockets  
+- 🔢 Unread message badges for inactive users (like WhatsApp)  
+- 🧠 Compound component pattern using useReducer + Context API  
+- 🔐 JWT authentication with secure session handling  
+- 🎨 Theme customization with 30+ UI styles  
+- 📦 Clean, modular architecture with centralized error handling  
 ---
 
 ### 🛒 Ministore – Product Management System  
