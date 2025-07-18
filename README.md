@@ -34,6 +34,21 @@ This repository contains a collection of my full-stack projects built using the 
 
 ## 📂 Projects
 
+### 💬 Chatly – Real-Time Chat Application  
+🔗 [View Code](https://github.com/Mostafa-36/Chatly-app)  
+🚀 Live Demo: Coming Soon
+
+Chatly is a responsive full-stack real-time chat app built with the MERN stack and Socket.IO.  
+It features:
+
+✅ Instant messaging with WebSockets  
+🔢 Unread message badges for inactive users (like WhatsApp)  
+🧠 Compound component pattern using useReducer + Context API  
+🔐 JWT authentication with secure session handling  
+🎨 Theme customization with 30+ UI styles  
+📦 Clean, modular architecture with centralized error handling  
+---
+
 ### 🛒 Ministore – Product Management System  
 [🔗 View Code]([https://github.com/your-username/ministore](https://github.com/Mostafa-36/ministore)  
 [🚀 Live Demo](https://ministore-demo.vercel.app)
