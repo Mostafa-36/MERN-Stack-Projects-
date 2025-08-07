@@ -11,13 +11,18 @@ This repository contains a collection of my full-stack projects built using the 
 ### 🖥️ Frontend
 - React.js
 - React Router Dom
+- React Query (TanStack v5)
 - Redux Toolkit / Context API
 - Zustand
 - context API
 - Tailwind CSS
 - Charka UI
+- DaisyUI
 - Framer Motion
-- React Icons
+- React Icons 
+- Lucide React (icons)
+- Axios
+- Socket.IO Client
 
 ### 🧠 Backend
 - Node.js
@@ -26,6 +31,8 @@ This repository contains a collection of my full-stack projects built using the 
 - JWT Authentication
 - Middleware Pattern
 - Socket.io
+- Cloudinary (Image Storage)
+- Cookie Parser
 
 ### 🗄️ Database
 - MongoDB
