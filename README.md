@@ -36,6 +36,25 @@ This repository contains a collection of my full-stack projects built using the 
 
 ## 📂 Projects
 
+🐦 X Clone – Twitter Full-Stack Clone (MERN)
+[🔗 View Code](https://github.com/Mostafa-36/X-clone)  
+🚀 Live Demo: Coming Soon
+
+X Clone is a modern, full-stack Twitter clone built with the MERN stack and Cloudinary.
+It replicates essential Twitter functionality with a clean UI, mobile-first responsiveness, and real-time interactions.
+
+🔑 Features:
+- ✅ Tweet creation (text/image)
+- 🖼️ Cloud-based image uploads via Cloudinary
+- 🔔 Real-time notifications (likes, follows)
+- 👥 Follow/unfollow users
+- 📱 Mobile-friendly & responsive layout
+- 🔐 JWT authentication with secure cookie handling
+- 🧱 Modular folder structure and clean codebase
+- 🧠 Reusable components and custom React hooks
+- 🛡️ Protected routes and robust error handling
+---
+
 ### 💬 Chatly – Real-Time Chat Application  
 🔗 [View Code](https://github.com/Mostafa-36/Chatly-app)  
 🚀 Live Demo: Coming Soon
